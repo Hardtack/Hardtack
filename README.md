@@ -34,4 +34,6 @@ Software engineer & Mathematics lover
 
 * GitHub - https://github.com/Hardtack
 
+* Keybase - https://keybase.io/hardtack
+
 * Email - 6566gun@gmail.com
