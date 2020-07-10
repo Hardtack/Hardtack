@@ -24,7 +24,7 @@ Software engineer & Mathematics lover
 
 ## 📚 Studying...
 
-* Data Science
+* Machine Learning
 
 * Quantum Computing
 
