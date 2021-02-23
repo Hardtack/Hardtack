@@ -10,7 +10,7 @@ Software engineer & Mathematics lover
 
 * Data Engineering
 
-* Basic Machine Learning
+* Machine Learning
 
 * Dev-Ops
 
