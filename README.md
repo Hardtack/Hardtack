@@ -26,7 +26,7 @@ Software engineer & Mathematics lover
 
 * Machine Learning
 
-* Quantum Computing
+* ~Quantum Computing~
 
 ## ✉️ Contact Me
 
