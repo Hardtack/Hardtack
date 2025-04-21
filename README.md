@@ -22,12 +22,6 @@ Software engineer & Mathematics lover
 
 * Mathematics
 
-## 📚 Studying...
-
-* Machine Learning
-
-* ~Quantum Computing~
-
 ## ✉️ Contact Me
 
 * Linkedin - https://www.linkedin.com/in/choi-geonu/
